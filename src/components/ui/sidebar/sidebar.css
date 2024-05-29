@@ -1,13 +1,13 @@
 .sidebar{
     width: 300px;
     height: 100vh;
-    border-right: 2px solid  rgb(201, 196, 196);
+    border-right: 2px solid  rgb(62, 70, 62);
     display: flex;
     padding: 20px;
     flex-direction: column;
 }
 .navlink{
-    border: 1px solid rgb(42, 187, 223);
+    border: 1px solid rgb(62, 70, 62);
     margin: 10px 0px;
     padding: 10px 15px;
     text-decoration: none;
@@ -15,10 +15,11 @@
     border-radius: 10px;
     text-align: center;
     transition: 0.3s;
+    color: rgb(62, 70, 62);
 
 }
 .navlink:hover{
-    background-color: rgb(42, 187, 223);
+    background-color: rgb(62, 70, 62);
     color: white;
 
 }
